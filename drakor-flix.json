@@ -3,7 +3,7 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads": "",
-	  "initialize_sdk": "8PJ6kmxLKLnUGCAnExNolzUg5HItxFRdm8FSkW0c49xSgcx7DnfA9PW3ONTLbGQEA5hu2oQzFLaGP1FOmvQPfP",
+	  "initialize_sdk": "",
       "initialize_sdk_backup": "",
       "main_ads_banner": "6c53128c5beb8cee",
       "backup_ads_banner": "",
