@@ -1,0 +1,101 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+	  "initialize_sdk": "",
+      "initialize_sdk_backup": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_banner": "",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_intertitial": "",
+      "main_ads_native": "ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_native": "",
+      "main_ads_reward": "",
+      "backup_ads_reward": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "insurance",
+      "high_paying_keyword_2": "loans",
+      "high_paying_keyword_3": "electricity",
+      "high_paying_keyword_4": "attorney",
+      "high_paying_keyword_5": "mortgage",
+      "timer_ads": "60000",
+      "play_protect": "0",
+      "base_license_key": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
+      "show_fake_home": "0",
+      "login_status": "true",
+	  "config": "aHR0cHM6Ly9kYXNoZHJha29yLm15LmlkL2FwaS8="
+    }
+  ],
+  "SLIDER": [
+    {
+      "id": "1",
+      "image": "https://villaasiatic.com/wp-content/uploads/2017/01/promotion.jpg",
+      "url": "https://t.me/Xsourcecode"
+    }
+  ],
+  "DATA": [
+    {
+      "channel_id": "1",
+      "channel_image": "https://ia903400.us.archive.org/13/items/youtube-PqAfpv4-xBE/__ia_thumb.jpg",
+      "channel_name": "Lichu - Waves (Vlog No Copyright Music)",
+      "channel_url": "https://ia903400.us.archive.org/13/items/youtube-PqAfpv4-xBE/PqAfpv4-xBE.mp4"
+    },
+    {
+      "channel_id": "2",
+      "channel_image": "https://ia903403.us.archive.org/15/items/youtube-YZXclaSKkys/__ia_thumb.jpg",
+      "channel_name": "Atch - Daydream (Vlog No Copyright Music)",
+      "channel_url": "https://ia803403.us.archive.org/15/items/youtube-YZXclaSKkys/YZXclaSKkys.mp4"
+    },
+    {
+      "channel_id": "3",
+      "channel_image": "https://ia903406.us.archive.org/7/items/youtube-sQJzCZp5SRY/__ia_thumb.jpg",
+      "channel_name": "Lichu - Backpack (Vlog No Copyright Music)",
+      "channel_url": "https://ia803406.us.archive.org/7/items/youtube-sQJzCZp5SRY/sQJzCZp5SRY.mp4"
+    },
+    {
+      "channel_id": "4",
+      "channel_image": "https://ia803408.us.archive.org/20/items/youtube-szZNilICQR0/__ia_thumb.jpg",
+      "channel_name": "Lichu - Bliss (Vlog No Copyright Music)",
+      "channel_url": "https://ia803408.us.archive.org/20/items/youtube-szZNilICQR0/szZNilICQR0.mp4"
+    },
+    {
+      "channel_id": "5",
+      "channel_image": "https://ia801705.us.archive.org/16/items/youtube-DElsMp9Mp2M/__ia_thumb.jpg",
+      "channel_name": "Osheen & JayJen - Flying (Vlog No Copyright Music)",
+      "channel_url": "https://ia601705.us.archive.org/16/items/youtube-DElsMp9Mp2M/DElsMp9Mp2M.mp4"
+    },
+    {
+      "channel_id": "6",
+      "channel_image": "https://ia801708.us.archive.org/31/items/youtube-3NELnO0vbqM/__ia_thumb.jpg",
+      "channel_name": "JayJen & tubebackr - Travel (Vlog No Copyright Music)",
+      "channel_url": "https://ia601708.us.archive.org/31/items/youtube-3NELnO0vbqM/3NELnO0vbqM.mp4"
+    },
+    {
+      "channel_id": "7",
+      "channel_image": "https://ia801708.us.archive.org/17/items/youtube-9svC-oqbvUU/__ia_thumb.jpg",
+      "channel_name": "JayJen & Roa - Paradise (Vlog No Copyright Music)",
+      "channel_url": "https://ia801708.us.archive.org/17/items/youtube-9svC-oqbvUU/9svC-oqbvUU.mp4"
+    },
+    {
+      "channel_id": "8",
+      "channel_image": "https://ia801809.us.archive.org/15/items/youtube-4Lk7_Z-kocs/__ia_thumb.jpg",
+      "channel_name": "JayJen - Rainbow (Vlog No Copyright Music)",
+      "channel_url": "https://ia801809.us.archive.org/15/items/youtube-4Lk7_Z-kocs/4Lk7_Z-kocs.mp4"
+    },
+    {
+      "channel_id": "9",
+      "channel_image": "https://ia801809.us.archive.org/19/items/youtube-inac_Ax6Z20/__ia_thumb.jpg",
+      "channel_name": "JayJen - Imaginary (Vlog No Copyright Music)",
+      "channel_url": "https://ia801809.us.archive.org/19/items/youtube-inac_Ax6Z20/inac_Ax6Z20.mp4"
+    },
+    {
+      "channel_id": "10",
+      "channel_image": "https://ia801805.us.archive.org/11/items/youtube-k3NZruUvqOs/__ia_thumb.jpg",
+      "channel_name": "Sapajou - Toch (Vlog No Copyright Music)",
+      "channel_url": "https://ia801805.us.archive.org/11/items/youtube-k3NZruUvqOs/k3NZruUvqOs.mp4"
+    }
+  ]
+}
