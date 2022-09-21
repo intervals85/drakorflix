@@ -22,7 +22,7 @@
       "timer_ads": "60000",
       "play_protect": "0",
       "base_license_key": "",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
       "show_fake_home": "0",
       "login_status": "false",
