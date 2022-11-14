@@ -1,0 +1,102 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "",
+	  "initialize_sdk": "",
+      "initialize_sdk_backup": "",
+      "main_ads_banner": "ac8f939ea4551f85",
+      "backup_ads_banner": "",
+      "main_ads_intertitial": "844a1d643da66ea7",
+      "backup_ads_intertitial": "",
+      "main_ads_native": "7721922928a3c0ee",
+      "backup_ads_native": "",
+      "main_ads_reward": "ede9af787b443c30",
+      "backup_ads_reward": "",
+      "interstitial_counter": "5",
+      "high_paying_keyword_1": "insurance",
+      "high_paying_keyword_2": "loans",
+      "high_paying_keyword_3": "electricity",
+      "high_paying_keyword_4": "attorney",
+      "high_paying_keyword_5": "mortgage",
+      "timer_ads": "60000",
+      "play_protect": "0",
+      "base_license_key": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
+      "show_fake_home": "0",
+      "login_status": "false",
+	  "config": "aHR0cHM6Ly9hcGkuZHJhbWFmbGl4Lm9uZS9hcGkv"
+    }
+  ],
+"SLIDER": [
+    {
+      "id": "1",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMv6OEeu9MfNKWbeLU1vMQYPW18F8ZMJ3PSFD4SCBtg3WYN6sRFWo53OjhOcltj-e_n3pGXOrgBwW5g99dZj2R_LkmWcEfBzm-UKd3TBl7qdaez5BSg82P_pPGww4ng-6ehLnynVzRoqMnwzncmDWtaFR4CKX2SGZ9Zs1m-7OSVvNPFgBcv_eb1dPt/s312/Untitled-1.png",
+      "url": "https://play.google.com/store/apps/details?id=com.gpgdev.drama_tv"
+    }
+  ],
+
+  "DATA": [
+    {
+      "channel_id": "1",
+      "channel_image": "https://i.ytimg.com/vi/50kLmhGpt1s/maxresdefault.jpg",
+      "channel_name": "Alchemy of Souls Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Alchemy%20of%20Souls%20-%20Official%20Trailer%20-%20Netflix%20%5BENG%20SUB%5D.mp4"
+    },
+    {
+      "channel_id": "2",
+      "channel_image": "https://i.ytimg.com/vi/y3VzeVtMZyE/maxresdefault.jpg",
+      "channel_name": "All of Us Are Dead Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/All%20of%20us%20are%20dead%20-%20Season%202%20Announcement%20-%20Netflix.mp4"
+    },
+    {
+      "channel_id": "3",
+      "channel_image": "https://i.ytimg.com/vi/mh4R-WXRhQo/maxresdefault.jpg",
+      "channel_name": "Business Proposal Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Business%20Proposal%20-%20Official%20Trailer%20-%20Netflix%20%5BENG%20SUB%5D.mp4"
+    },
+    {
+      "channel_id": "4",
+      "channel_image": "https://i.ytimg.com/vi/jFkIyLJlS0c/maxresdefault.jpg",
+      "channel_name": "Forecasting Love and Weather Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Forecasting%20Love%20and%20Weather%20-%20Official%20Trailer%20-%20Netflix.mp4"
+    },
+    {
+      "channel_id": "5",
+      "channel_image": "https://i.ytimg.com/vi/uuXrAmdNvk0/maxresdefault.jpg",
+      "channel_name": "Juvenile Justice Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Juvenile%20Justice%20-%20Official%20Trailer%20-%20Netflix%20%5BENG%20SUB%5D.mp4"
+    },
+    {
+      "channel_id": "6",
+      "channel_image": "https://i.ytimg.com/vi/ZzhrNmoYNK8/maxresdefault.jpg",
+      "channel_name": "Ghost Doctor Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Official%20Trailer-%20A%20Strong%20Connection%20-%20Ghost%20Doctor%20-%20%E5%B9%BD%E7%81%B5%E5%8C%BB%E7%94%9F%20-%20Rain%20%E9%83%91%E6%99%BA%E8%96%B0%EF%BC%8CKim%20Bum%20%E9%87%91%E6%B1%8E%20-%20iQiyi.mp4"
+    },
+    {
+      "channel_id": "7",
+      "channel_image": "https://i.ytimg.com/vi/O1r5XXJOYNA/maxresdefault.jpg",
+      "channel_name": "Pachinko Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/PACHINKO%20Official%20Trailer%20%282022%29.mp4"
+    },
+    {
+      "channel_id": "8",
+      "channel_image": "https://i.ytimg.com/vi/46wCoHfigjE/maxresdefault.jpg",
+      "channel_name": "Thirty-Nine Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Thirty-Nine%20-%20Official%20Trailer%20-%20Netflix%20%5BENG%20SUB%5D.mp4"
+    },
+    {
+      "channel_id": "9",
+      "channel_image": "https://i.ytimg.com/vi/BsNRPkOV_Mo/maxresdefault.jpg",
+      "channel_name": "Tomorrow Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Tomorrow%20-%20Official%20Trailer%20-%20Netflix%20%5BENG%20SUB%5D.mp4"
+    },
+    {
+      "channel_id": "10",
+      "channel_image": "https://i.ytimg.com/vi/gFk-eZzO5Hw/maxresdefault.jpg",
+      "channel_name": "Twenty Five Twenty One Official Trailer",
+      "channel_url": "https://archive.org/download/pachinko-official-trailer-2022_202209/Twenty%20Five%20Twenty%20One%20-%20Official%20Trailer%20-%20Netflix%20%5BENG%20SUB%5D.mp4"
+    }
+  ]
+}
